@@ -8,6 +8,8 @@
 
 [![Code Quality - Static Code - Cppcheck](https://github.com/chandanah13/M1_Application_PACMAN_GAME/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/chandanah13/M1_Application_PACMAN_GAME/actions/workflows/cppcheck.yml)
 
+[![Contribution Check - Git Inspector](https://github.com/chandanah13/M1_Application_PACMAN_GAME/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/chandanah13/M1_Application_PACMAN_GAME/actions/workflows/gitinspector.yml)
+
 
 ## Folder Structure
 Folder               | Description
