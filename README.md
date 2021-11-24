@@ -1,6 +1,12 @@
 # M1_PACMAN_GAME_
 
-[![Codacy Badge]https://api.codiga.io/project/29984/score/svg
+![Code Quality Score](https://api.codiga.io/project/29984/score/svg)
+
+![Code Grade](https://api.codiga.io/project/29984/status/svg)
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/57a4794e5fe14f06ab2de1b809b5e57f)](https://www.codacy.com/gh/chandanah13/M1_Application_PACMAN_GAME/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=chandanah13/M1_Application_PACMAN_GAME&amp;utm_campaign=Badge_Grade)
+
+
 ## Folder Structure
 Folder               | Description
 -------------------  | -----------------------------------------
