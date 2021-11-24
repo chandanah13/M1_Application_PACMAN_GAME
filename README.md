@@ -6,6 +6,8 @@
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/57a4794e5fe14f06ab2de1b809b5e57f)](https://www.codacy.com/gh/chandanah13/M1_Application_PACMAN_GAME/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=chandanah13/M1_Application_PACMAN_GAME&amp;utm_campaign=Badge_Grade)
 
+[![Code Quality - Static Code - Cppcheck](https://github.com/chandanah13/M1_Application_PACMAN_GAME/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/chandanah13/M1_Application_PACMAN_GAME/actions/workflows/cppcheck.yml)
+
 
 ## Folder Structure
 Folder               | Description
