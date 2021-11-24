@@ -1,4 +1,6 @@
 # M1_PACMAN_GAME_
+
+[![Codacy Badge]https://api.codiga.io/project/29984/score/svg
 ## Folder Structure
 Folder               | Description
 -------------------  | -----------------------------------------
